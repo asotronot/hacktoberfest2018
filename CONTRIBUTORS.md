@@ -63,3 +63,9 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+Name: [Ahmet Oguz](https://github.com/asotronot)
+Place: Salt Lake City
+About: Software Engineer, learner. I am a C# engineer who also has interest in other technologies as well.
+Programming Language: C#/ASP.NET, Java, JavaScript
+Email: ahmet_o12@hotmail.com
